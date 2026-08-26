@@ -118,6 +118,22 @@ Run `python vqe_harmonic_oscillator.py --help` for every option.
 The optimized-state plot should be concentrated at $|00\rangle$, because it
 encodes the lowest oscillator level.
 
+### VQE circuit
+
+![Optimized VQE circuit](plots/vqe_circuit.png)
+
+### Optimization convergence
+
+![VQE energy convergence](plots/vqe_convergence.png)
+
+### Truncated energy levels
+
+![Harmonic-oscillator energy levels](plots/energy_levels.png)
+
+### Optimized state
+
+![Optimized state probabilities](plots/optimized_state.png)
+
 ## Read the code
 
 1. `harmonic_oscillator_hamiltonian()` creates the Pauli representation of $H$.
