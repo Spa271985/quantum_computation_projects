@@ -11,11 +11,11 @@ developers taking their first steps in quantum computing.
 
 ## Projects
 
-| Project | Main idea | Qubits | What it demonstrates |
-| --- | --- | ---: | --- |
-| [Quantum Superposition Demo](quantum-superposition-demo/) | Prepare $H|0\rangle$ and measure it repeatedly | 1 | Qubits, gates, measurement, simulation, and histograms |
-| [VQE Harmonic Oscillator](vqe_harmonic_oscillator/) | Find the lowest energy in a four-level oscillator model | 2 | Hamiltonian encoding, parameterized circuits, and VQE |
-| [Ising Model VQE](ising_model_vqe/) | Find the ground state of two interacting spins in a transverse field | 2 | Pauli Hamiltonians, entanglement, observables, and VQE |
+| Project | Qubits | Main idea | Key concepts |
+| :--- | :---: | :--- | :--- |
+| [Quantum Superposition Demo](quantum-superposition-demo/) | 1 | Apply a Hadamard gate and measure the qubit repeatedly | Gates, measurement, simulation, and histograms |
+| [VQE Harmonic Oscillator](vqe_harmonic_oscillator/) | 2 | Find the lowest energy of a four-level oscillator model | Hamiltonian encoding, parameterized circuits, and VQE |
+| [Ising Model VQE](ising_model_vqe/) | 2 | Find the ground state of two spins in a transverse field | Pauli operators, entanglement, observables, and VQE |
 
 ## Suggested learning path
 
